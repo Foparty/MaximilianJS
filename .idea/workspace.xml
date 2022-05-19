@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="925a75b0-c216-45c0-9120-9f306c6fe4ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Section 2 Basics: Variables, Data types, Operators &amp; Functions/assignment 2/assignment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 2 Basics: Variables, Data types, Operators &amp; Functions/assignment 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 2 Basics: Variables, Data types, Operators &amp; Functions/assignment 2/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 2 Basics: Variables, Data types, Operators &amp; Functions/calculator/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 2 Basics: Variables, Data types, Operators &amp; Functions/calculator/assets/scripts/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 2 Basics: Variables, Data types, Operators &amp; Functions/calculator/assets/scripts/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 2 Basics: Variables, Data types, Operators &amp; Functions/calculator/assets/scripts/vendor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,8 @@
       <updated>1652784374727</updated>
       <workItem from="1652784375876" duration="2476000" />
       <workItem from="1652859949491" duration="8975000" />
-      <workItem from="1652876842061" duration="3588000" />
+      <workItem from="1652876842061" duration="3679000" />
+      <workItem from="1652950763863" duration="1514000" />
     </task>
     <servers />
   </component>
