@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="925a75b0-c216-45c0-9120-9f306c6fe4ed" name="Changes" comment="finishing the calculator">
-      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-01-starting-project/assets/scripts/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-01-starting-project/assets/scripts/vendor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-01-starting-project/assets/styles/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-01-starting-project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 3 Efficient Development &amp; Debugging/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 3 Efficient Development &amp; Debugging/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-03-monster-killer-starting-project/assets/scripts/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-03-monster-killer-starting-project/assets/scripts/vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-03-monster-killer-starting-project/assets/styles/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-03-monster-killer-starting-project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-01-starting-project/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-01-starting-project/assets/scripts/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/fo/Web/Cursos/MaximilianJS/node_modules/prettier",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -66,7 +66,9 @@
       <workItem from="1652950763863" duration="2929000" />
       <workItem from="1653047935539" duration="366000" />
       <workItem from="1653487803676" duration="963000" />
-      <workItem from="1653901626270" duration="313000" />
+      <workItem from="1653901626270" duration="3811000" />
+      <workItem from="1653905673985" duration="1309000" />
+      <workItem from="1653906994636" duration="734000" />
     </task>
     <task id="LOCAL-00001" summary="finishing the calculator">
       <created>1652952427475</created>
