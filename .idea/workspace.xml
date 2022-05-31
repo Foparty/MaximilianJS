@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="925a75b0-c216-45c0-9120-9f306c6fe4ed" name="Changes" comment="finishing the calculator">
-      <change afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-03-monster-killer-starting-project/assets/scripts/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-03-monster-killer-starting-project/assets/scripts/vendor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-03-monster-killer-starting-project/assets/styles/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-03-monster-killer-starting-project/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-01-starting-project/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-01-starting-project/assets/scripts/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-03-monster-killer-starting-project/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-03-monster-killer-starting-project/assets/scripts/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,22 +27,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "/Users/fo/Web/Cursos/MaximilianJS/node_modules/prettier",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/fo/Web/Cursos/MaximilianJS/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Section 2 Basics: Variables, Data types, Operators &amp; Functions/calculator" />
@@ -69,6 +65,7 @@
       <workItem from="1653901626270" duration="3811000" />
       <workItem from="1653905673985" duration="1309000" />
       <workItem from="1653906994636" duration="734000" />
+      <workItem from="1653994101136" duration="1617000" />
     </task>
     <task id="LOCAL-00001" summary="finishing the calculator">
       <created>1652952427475</created>
