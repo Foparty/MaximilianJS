@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="925a75b0-c216-45c0-9120-9f306c6fe4ed" name="Changes" comment="finishing the calculator">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-03-monster-killer-starting-project/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 4 Working with Control Structures/control-03-monster-killer-starting-project/assets/scripts/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="925a75b0-c216-45c0-9120-9f306c6fe4ed" name="Changes" comment="finishing the calculator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +67,7 @@
       <workItem from="1654031445218" duration="234000" />
       <workItem from="1654031771223" duration="57000" />
       <workItem from="1654036362952" duration="1000" />
+      <workItem from="1654163512965" duration="633000" />
     </task>
     <task id="LOCAL-00001" summary="finishing the calculator">
       <created>1652952427475</created>
